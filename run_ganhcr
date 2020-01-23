@@ -5,4 +5,3 @@
 #set this to point to the GANhcr
 GANhcrdir=~/DNA_HCR
 complex -T 32 -material DNA
-
